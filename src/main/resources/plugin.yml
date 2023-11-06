@@ -1,9 +1,9 @@
 main: dev.amok.EndTrah.Plugin
 name: EndTrah
-version: 1
+version: 1.0.0
 api-version: 1.16
 authors: [AmokDev]
-website: https://github.com/amokdev
+website: https://github.com/AmokDev
 prefix: EndTrah
 
 commands:
