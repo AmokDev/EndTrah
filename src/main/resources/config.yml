@@ -1,0 +1,33 @@
+# Credits
+author: https://github.com/AmokDev
+hangar: https://hangar.papermc.io/AmokDev/EndTrah
+
+# Additional damage to Ender Crystals (damage not in hearts)
+crystal_damage: 20
+
+# Egg name (edited when the player picks up an egg) // console formatting
+eggname: 'Dragon Egg'
+
+# Egg lore (edited when the player picks up an egg) // console formatting
+egglore:
+  - ''
+  - 'This is my custom text to dragon egg!'
+  - ''
+  - 'And I can edit it to my liking'
+  - ''
+
+# don`t touch this
+eggowner: steve
+
+# /egg command // console formatting
+eggmsg: The last one to keep the dragon egg on the server -> 
+
+# Title and subtitle (shown when the player has an egg in their hand) // console formatting
+title: Watch out!
+subtitle: You picked up a dragon egg!
+
+# Text in BossBar (Shows as long as the egg is in the player's inventory) // console formatting
+bartext: Dragon egg in inventory!
+
+# Config Restart Custom Text // console formatting
+config-restart: '[EndTrah] Config restarted!'
